@@ -80,4 +80,15 @@
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.inlineSuggest.enabled": true,
+    "workbench.colorTheme": "Dracula Soft",
+    "github.copilot.enable": {
+      "*": true,
+      "plaintext": false,
+      "markdown": false,
+      "scminput": false
+    },
+    "window.zoomLevel": 1,
+    "workbench.productIconTheme": "bongocat",
 }
